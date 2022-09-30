@@ -35,7 +35,7 @@ Quick start
 ```
 git clone https://github.com/lucthienphong1120/cupp
 cd cupp
-python3 cupp.py -h
+python3 cupp.py -i
 ```
 
 ## Options
