@@ -32,7 +32,11 @@ You need Python 3 to run CUPP.
 Quick start
 -----------
 
-    $ python3 cupp.py -h
+```
+git clone https://github.com/lucthienphong1120/cupp
+cd cupp
+python3 cupp.py -h
+```
 
 ## Options
 
